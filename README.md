@@ -37,7 +37,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 DEMO IMAGES - 
 
-![3](https://github.com/user-attachments/assets/ca090ec2-ef7c-48b4-b3cc-b4bcb058a5e3)
+![1](https://github.com/user-attachments/assets/7d05f40b-16f8-46d1-ae72-290a3153d5cf)
+
 ![2](https://github.com/user-attachments/assets/c7e128ed-5063-4b02-a60f-0e431cf1e5e2)
-![1](https://github.com/user-attachments/assets/9ef851ce-d016-4a48-8733-fcf62663232a)
+
+![3](https://github.com/user-attachments/assets/ca090ec2-ef7c-48b4-b3cc-b4bcb058a5e3)
+
+
 
